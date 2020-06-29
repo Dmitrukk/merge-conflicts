@@ -2,8 +2,24 @@ Want to become a web-developer
 To begin with I would like to say some words about my education
 
 # Jobs
-2017-2020 - BSUIR - the basis of object-oriented programmimg, C++ and Java
-2019 - RS-school - knowlodge in HTML, CSS, a little bit of JS
-2020 - Glo-academy - improving knowledge in html, css, js
-2020 - Self-improvement - framework Bootstrap, different plugins in VS Code, starting to explore JS in detail
+- company: BSUIR
+  position: Student
+  duration: 2017 &mdash; 2020
+  summary: I've learnt the basis of object-oriented programmimg, C++ and Java
+  
+- company: RS-school
+  position: Student
+  duration: October 2019
+  summary: I've got knowlodge in HTML, CSS, a little bit of JS
+  
+- company: Glo-academy
+  position: Student
+  duration: May 2020
+  summary: I've improved knowledge in html, css, js
+  
+- company: Self-improvement
+  position: Student
+  duration: Spring 2020
+  summary: I've explored framework Bootstrap, different plugins in VS Code, starting to explore JS in detail
+
 
